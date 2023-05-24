@@ -24,4 +24,4 @@ Automating the post-provisioning installation of a Linux workstation
 | bookworm.lab.corp | VMware, Inc.| VMware Virtual Platform |
 | desktop.lab.corp | Acer | Aspire M7811 |
 | a1369.lab.home | Apple Inc. | MacBookAir4,2 |
-| | | |
+| xps7590.lab.home | Dell Inc. | XPS 15 7590 |
